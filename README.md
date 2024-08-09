@@ -5,7 +5,7 @@ Wheeling Around was created by Runsen Wu, Ben Kosa, and Leanna Nguyen as part of
 
 Wheeling Around is a multiplayer educational game aimed at educating and raising awareness about sidewalk inaccessibility in Seattle, featuring two controllers: a custom hardware input device, and a camera-based pose estimation system using the ML5.js PoseNet API to translate body movements into game inputs.
 
-![Wheeling Around Game start screen](readmeimgs\WAStartScreen.png)
+<img src="readmeimgs\WAStartScreen.png"></img> 
 
 ## Background Research
 Accessibility within the city, particularly in terms of transportation, is something we don’t often think about, but it affects many people. Providing functional roads and public transportation access is essential for helping families secure better employment opportunities and improving their overall well-being. Additionally, accessible infrastructure is crucial for safety; sidewalks and well-maintained roads help prevent accidents and ensure safer travel for all. According to the [Seattle Department of Transportation](https://www.seattle.gov/transportation/projects-and-programs/programs/pedestrian-program/sidewalk-accessibility-guide), nearly 24% of streets lack sidewalks, with the issue being most prevalent in north and south Seattle as well as our industrial districts.
